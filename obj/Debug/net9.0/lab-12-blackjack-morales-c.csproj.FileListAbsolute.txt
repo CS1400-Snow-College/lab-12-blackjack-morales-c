@@ -1,0 +1,15 @@
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\bin\Debug\net9.0\lab-12-blackjack-morales-c.exe
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\bin\Debug\net9.0\lab-12-blackjack-morales-c.deps.json
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\bin\Debug\net9.0\lab-12-blackjack-morales-c.runtimeconfig.json
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\bin\Debug\net9.0\lab-12-blackjack-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\bin\Debug\net9.0\lab-12-blackjack-morales-c.pdb
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\lab-12-blackjack-morales-c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\lab-12-blackjack-morales-c.AssemblyInfoInputs.cache
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\lab-12-blackjack-morales-c.AssemblyInfo.cs
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\lab-12-blackjack-morales-c.csproj.CoreCompileInputs.cache
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\lab-12-blackjack-morales-c.sourcelink.json
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\lab-12-blackjack-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\refint\lab-12-blackjack-morales-c.dll
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\lab-12-blackjack-morales-c.pdb
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\lab-12-blackjack-morales-c.genruntimeconfig.cache
+C:\Users\wjnpy\code\my-code-dir\lab-12-blackjack-morales-c\obj\Debug\net9.0\ref\lab-12-blackjack-morales-c.dll
